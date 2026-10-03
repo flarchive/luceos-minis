@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of luceos/minis.** Not for installation: use [Packagist](https://packagist.org/packages/luceos/minis) or the [upstream repository](https://github.com/luceos/flarum-ext-minis).
 
-**0** versions archived · Latest: [`0.1-beta.1`](https://github.com/flarchive/luceos-minis/tree/archive/v0.1-beta.1) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.1-beta.1`](https://github.com/flarchive/luceos-minis/tree/archive/v0.1-beta.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1-beta.1` | 2024-08-19 | `^1.2.0` | [Browse](https://github.com/flarchive/luceos-minis/tree/archive/v0.1-beta.1) |
 
 Catalog entry: [packages/luceos-minis.json](https://github.com/flarchive/archive-index/blob/main/packages/luceos-minis.json)
 
